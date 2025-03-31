@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://farooqfolio.vercel.app" rel="nofollow">
+  <a href="https://farooqfolio.netlify.app" rel="nofollow">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/muhammadfarooq85" rel="nofollow">
