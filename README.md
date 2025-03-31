@@ -18,10 +18,12 @@
 
 <p align="center">
   <a href="https://farooqfolio.vercel.app" rel="nofollow">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" 
+    alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/muhammadfarooq85" rel="nofollow">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" 
+    alt="LinkedIn">
   </a>
   <a href="mailto:famuhammad907@gmail.com" rel="nofollow">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email">
@@ -29,9 +31,14 @@
   <a href="https://github.com/muhammadfarooq85" rel="nofollow">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub">
   </a>
+  <a href="https://x.com/mfarooq8185" rel="nofollow">
+    <img src="https://img.shields.io/static/v1?message=Twitter+Profile&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" 
+  alt="Twitter Profile">
+  </a>
   <a href="https://www.youtube.com/@codeWithFarooq" rel="nofollow">
-    <img src="https://img.shields.io/static/v1?message=YouTube+Channel&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube Channel">
-</a>
+    <img src="https://img.shields.io/static/v1?message=YouTube+Channel&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25"     
+    alt="YouTube Channel">
+  </a>
 </p>
 <br/>
 
