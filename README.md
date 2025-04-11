@@ -106,10 +106,11 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfarooq85&theme=highcontrast&hide_border=true" alt="Muhammad Farooq Github Stats" />
 </p>
+<!-- GitRoll Status -->
+<a href="https://gitroll.io/profile/u038sozBfdMUGo05sc2Sfa2K6EJs1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u038sozBfdMUGo05sc2Sfa2K6EJs1?theme=dark" alt="GitRoll Profile Badge"/></a>
 
 <!-- GitHub Graph -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadfarooq85&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <h3 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Image"/>
