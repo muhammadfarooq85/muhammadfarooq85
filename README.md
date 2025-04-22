@@ -3,7 +3,7 @@
 </h3>
 
 <h1 align="center">Hi, I'm Muhammad Farooq</h1>
-<h2 align="center">A passionate MERN Stack Developer focused on crafting dynamic, high-performance web applications using cutting-edge technologies.</h2>
+<h2 align="center">Hello! I'm Muhamma Farooq, a highly skilled Full Stack MERN Developer with expertise in React Native for mobile app development. I help businesses bring their ideas to life by creating scalable and high-performance web and mobile applications that are tailored to your needs.</h2>
 
 <h3 align="center">
   <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadfarooq85&theme=apprentice"/>
