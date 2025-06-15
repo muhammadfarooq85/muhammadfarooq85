@@ -8,6 +8,8 @@
 <h3 align="center">
   <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadfarooq85&theme=apprentice"/>
   <br/>
+   <img src="linkedin-Banner-image.png" alt="LinkedIn Banner" width="100%" />
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=muhammadfarooq85&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Farooq Profile Views" />
   <br/>
 </h3>
