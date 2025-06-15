@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" 
     alt="LinkedIn">
   </a>
-  <a href="mailto:famuhammad907@gmail.com" rel="nofollow">
+  <a href="mailto:enmuhammadfarooq@gmail.com" rel="nofollow">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email">
   </a>
   <a href="https://github.com/muhammadfarooq85" rel="nofollow">
