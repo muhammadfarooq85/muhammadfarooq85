@@ -4,11 +4,8 @@
 
 <h1 align="center">Hi, I'm Muhammad Farooq</h1>
 <h2 align="center">Hello! I'm Muhammad Farooq, a highly skilled Full Stack MERN Developer with expertise in React Native for mobile app development. I help businesses bring their ideas to life by creating scalable and high-performance web and mobile applications that are tailored to your needs.</h2>
-
-<h3 align="center">
-  <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadfarooq85&theme=apprentice"/>
-  <br/>
-   <img src="linkedin-Banner-image.png" alt="LinkedIn Banner" width="100%" />
+  <h3 align="center">
+   <img height="230em" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadfarooq85&theme=highcontrast" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=muhammadfarooq85&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Farooq Profile Views" />
   <br/>
@@ -110,7 +107,7 @@
 </p>
 
 <!-- GitHub Graph -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadfarooq85&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Muhammad Farooq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadfarooq85&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Image"/>
